@@ -18,3 +18,6 @@ puts old_inventory - new_inventory
 
 puts ""
 puts "#{num_files_unchanged} file(s) were unchanged."
+
+
+# 3.9 Excercise 4: No, arrays don't need to be ordered (alphabetically) for the subtracton to work.
